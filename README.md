@@ -9,5 +9,5 @@ O controle das terefas desse projeto sera realizado no GitHub
 
 :package: Nova Funcionalidade
 :up: Atualização
-:beatle: Correção de bug
+:beetle: Correção de bug
 :checkered_flag: Releaze
